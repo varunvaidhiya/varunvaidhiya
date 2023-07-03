@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m currently working on MasterZ Dfinity (ICP) Project
+
 
 
 <!--
