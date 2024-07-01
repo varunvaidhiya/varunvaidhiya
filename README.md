@@ -15,7 +15,7 @@ I'm Varun, an MSc student passionate about developing and deploying Artificial I
 
 **Connect with me:**
 
-* LinkedIn: [Link to your LinkedIn profile]
+* LinkedIn: https://www.linkedin.com/in/varunvaidhiya/
 * Email: varun.vaidhiya@gmail.com
 
 **Current Project: Leveraging Foundation Models for Autonomous Vehicles** (Dec '23 - Present)
