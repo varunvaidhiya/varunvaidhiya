@@ -1,4 +1,4 @@
-## Varun Vaidhiya Anand
+## Varun Vaidhiya
 
 **MSc Student in Smart, Connected and Autonomous Vehicles** at the University of Warwick - WMG  | **AI & Robotics Enthusiast**
 
