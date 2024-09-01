@@ -2,7 +2,7 @@
 
 **MSc Student in Smart, Connected and Autonomous Vehicles** at the University of Warwick - WMG  | **AI & Robotics Enthusiast**
 
-I'm Varun, an MSc student passionate about developing and deploying Artificial Intelligence solutions for the future of transportation, particularly in Autonomous Vehicles.  This repository showcases my projects related to leveraging Foundation Models (LLMs) for perception, planning, and decision-making in self-driving cars.
+I'm Varun, an MSc student passionate about developing and deploying Artificial Intelligence solutions for transportation, particularly in Autonomous Vehicles.  This repository showcases my projects related to leveraging Foundation Models (LLMs) for perception, planning, and decision-making in self-driving cars.
 
 **Key Skills:**
 
