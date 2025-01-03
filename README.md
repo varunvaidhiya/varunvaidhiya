@@ -21,9 +21,3 @@ I'm Varun, an MSc student passionate about developing and deploying Artificial I
 
 This project explores the potential of Foundation Models (LLMs) for various tasks in autonomous vehicles, including perception, planning, and Natural Language Interaction. I'm investigating techniques like Prompt Engineering, Fine-tuning, Knowledge Distillation, and model compression for efficient deployment on edge devices.
 
-**Additional Information:**
-
-* Explore the code in the `src` directory.
-* Find data processing scripts and configurations in the `data` and `configs` directories, respectively.
-* Refer to the `notebooks` directory for exploratory analysis and visualizations.
-* Tests for different modules are located in the `tests` directory.
