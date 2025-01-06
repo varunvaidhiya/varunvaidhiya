@@ -6,9 +6,9 @@ I'm Varun, an MSc student passionate about developing and deploying Artificial I
 **Key Skills:**
 
 * **AI & Machine Learning:** Supervised/Unsupervised Learning, Deep Learning (CNNs, LSTMs, RNNs), Reinforcement Learning, Generative AI (GANs), Explainable AI, Foundation Models (LLMs)
-* **Autonomous Systems:**  Testing(V&V), Perception, Path Planning, Control, State Estimation, Decision Making, Functional Safety, ISO26262, Simulation (CARLA, IPG CarMaker, Drive Sim), Automotive Embedded Systems, Autoware.
+* **Autonomous Systems:**  Testing(V&V), Perception, Path Planning, Control, State Estimation, Decision Making, Functional Safety, ISO26262, Simulation (CARLA, IPG CarMaker, Drive Sim), Automotive Embedded Systems, Autoware, ROS.
 * **Programming Languages:** Python (PyTorch, TensorFlow), C, C++, Java, JavaScript (HTML/CSS)
-* **Other Skills:** Docker, Kubernetes, Git, Version Control, ROS, HPC.
+* **Other Skills:** Docker, Kubernetes, Git, Version Control, HPC.
 
 **Excited to collaborate!**
 
