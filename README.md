@@ -1,18 +1,9 @@
 ## Varun Vaidhiya
 
-**MSc Student in Smart, Connected and Autonomous Vehicles** at the University of Warwick - WMG  
-I'm Varun, an MSc student passionate about developing and deploying Artificial Intelligence solutions on Edge.  This repository showcases my projects related to leveraging Foundation Models (LLMs) for perception in Robotic applications.
 
-**Key Skills:**
 
-* **AI & Machine Learning:** Supervised/Unsupervised Learning, Deep Learning (CNNs, LSTMs, RNNs), Reinforcement Learning, Generative AI (GANs), Foundation Models (LLMs)
-* **Autonomous Systems:**  Testing(V&V), Perception, Path Planning, Control, State Estimation, Decision Making, Functional Safety, ISO26262, Simulation (CARLA, IPG CarMaker, Drive Sim), Automotive Embedded Systems, Autoware, ROS.
-* **Programming Languages:** Python (PyTorch, TensorFlow), C, C++, Java, JavaScript (HTML/CSS)
-* **Other Skills:** Docker, Kubernetes, Git, Version Control, HPC.
 
-**Excited to collaborate!**
 
-**Connect with me:**
 
 * LinkedIn: https://www.linkedin.com/in/varunvaidhiya/
 * Email: varun.vaidhiya@gmail.com
