@@ -22,25 +22,7 @@ Software Engineer with deep expertise in **Edge AI Inference**, **Robotics**, an
 - 🎯 Interests: Performance engineering, embedded ML, autonomous systems
 - 📍 Location: UK-focused opportunities
 - 🎓 Considering: PhD programs in AI/Robotics
-- 💼 LinkedIn: 
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=varunvaidhiya" target="_blank">Follow on LinkedIn</a>
+- 💼 LinkedIn: [varunvaidhiya](https://www.linkedin.com/in/varunvaidhiya/)
 - 📧 Email: varun.vaidhiya@gmail.com
 
 ---
