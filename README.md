@@ -15,13 +15,12 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with deep expertise in **Edge AI Inference**, **Robotics**, and **Embedded Hardware**. Passionate about optimizing ML models for resource-constrained devices and building real-time autonomous systems. Currently focused on UK-centric opportunities and exploring PhD pathways in AI/Robotics research.
+Software Engineer with deep expertise in **Edge AI Inference**, **Robotics**, and **Embedded Hardware**. Passionate about optimizing ML models for resource-constrained devices and building real-time autonomous systems. Currently focused on UK-centric opportunities in AI/Robotics research.
 
 - 🔭 Working on: Edge AI deployment, real-time inference optimization, robotics middleware
 - 🌱 Exploring: Advanced model quantization, heterogeneous computing, ROS2 ecosystem
 - 🎯 Interests: Performance engineering, embedded ML, autonomous systems
 - 📍 Location: UK-focused opportunities
-- 🎓 Considering: PhD programs in AI/Robotics
 - 💼 LinkedIn: [varunvaidhiya](https://www.linkedin.com/in/varunvaidhiya/)
 - 📧 Email: varun.vaidhiya@gmail.com
 
@@ -126,7 +125,7 @@ class VarunVaidhiya:
         ]
         self.looking_for = {
             "opportunities": "UK-based roles in AI/Robotics",
-            "education": "PhD programs in Edge AI or Autonomous Systems",
+            
             "collaborations": "Open-source robotics & embedded ML projects"
         }
     
