@@ -8,7 +8,7 @@
 <h3 align="center">🚀 Software Engineer | Edge AI Inference | Robotics | Embedded Hardware 🤖</h3>
 
 <p align="center">
-  <em>Specializing in high-performance embedded systems, real-time inference optimization, and robotics platforms | UK-based  </em>
+  <em>Specializing in high-performance embedded systems, real-time inference optimization, and robotics platforms  </em>
 </p>
 
 ---
