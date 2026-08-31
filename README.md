@@ -15,11 +15,11 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with deep expertise in **Edge AI Inference**, **Robotics**, and **Embedded Hardware**. Passionate about optimizing ML models for resource-constrained devices and building real-time autonomous systems. Currently focused on opportunities in AI/Robotics research.
+Software Engineer with deep expertise in **Edge AI Inference**, **Robotics**, and **Embedded Hardware**. Passionate about optimizing ML models for resource-constrained devices, building real-time autonomous systems, and low-level firmware engineering. Currently focused on building affordable mobile manipulation robots and optimizing GenAI models for edge devices.
 
-- 🔭 Working on: Edge AI deployment, real-time inference optimization, robotics middleware
-- 🌱 Exploring: Advanced model quantization, heterogeneous computing, ROS2 ecosystem
-- 🎯 Interests: Performance engineering, embedded ML, autonomous systems
+- 🔭 Working on: **[OmniBot](https://github.com/varunvaidhiya/OmniBotPro)** (a $500 mobile manipulation robot with a unified SmolVLA policy), **[Digital Mind](https://varunvaidhiya.com)** (an AI assistant on my personal site), and real-time inference optimization for speech (TTS) and vision models.
+- 🌱 Exploring: Advanced model quantization (8-bit/4-bit), structured pruning, heterogeneous computing (ARM/CUDA), and ROS 2 navigation (SLAM, Nav2).
+- 🎯 Interests: Performance engineering, embedded ML, autonomous systems, and neural architecture design for constrained hardware.
 - 📧 Email: varun.vaidhiya@gmail.com
 
 ---
@@ -108,23 +108,24 @@ Software Engineer with deep expertise in **Edge AI Inference**, **Robotics**, an
 ```python
 class VarunVaidhiya:
     def __init__(self):
-        self.role = "Software Engineer"
+        self.role = "Software Engineer & Robotics Researcher"
         self.specializations = [
-            "Edge AI Inference Optimization",
-            "Robotics Middleware & Control Systems",
-            "Embedded Hardware Integration",
-            "Performance Engineering & Profiling"
+            "Edge AI Inference Optimization & Quantization",
+            "Robotics Middleware (ROS 2) & Control Systems",
+            "Embedded Hardware & Firmware Engineering",
+            "Speech Synthesis (TTS) & Acoustic Modeling",
+            "Performance Engineering & Profiling (C++/CUDA/ARM)"
         ]
-        self.current_focus = [
-            "Model quantization & pruning for edge devices",
-            "Real-time object detection on ARM platforms",
-            "ROS2 navigation & SLAM implementations",
-            "CUDA kernel optimization for inference"
+        self.current_projects = [
+            "OmniBot: $500 mobile manipulation robot (SmolVLA, ROS 2)",
+            "Digital Mind: AI assistant grounded in personal knowledge base",
+            "Real-time object detection & sensor fusion (EKF) on ARM platforms",
+            "Model compression for GenAI TTS on edge devices"
         ]
         self.looking_for = {
-            "opportunities": "UK-based roles in AI/Robotics",
+            "opportunities": "AI/Robotics Research and Edge AI Roles",
             
-            "collaborations": "Open-source robotics & embedded ML projects"
+            "collaborations": "Open-source robotics, embedded ML & VLA models"
         }
     
     def say_hi(self):
@@ -149,7 +150,7 @@ class VarunVaidhiya:
 
 ## 🏷️ Interests & Keywords
 
-`#EdgeAI` `#Robotics` `#EmbeddedSystems` `#MachineLearning` `#PerformanceOptimization` `#ROS2` `#ComputerVision` `#ModelQuantization` `#ARMArchitecture` `#CUDA` `#RealtimeInference` `#AutonomousSystems` `#SLAM` `#PyTorch` `#ONNX` `#TensorRT` `#EmbeddedML` `#IoT` `#RaspberryPi` `#PhDCandidate` `#UKTech` `#AIResearch` `#RoboticsEngineering`
+`#EdgeAI` `#Robotics` `#EmbeddedSystems` `#MachineLearning` `#PerformanceOptimization` `#ROS2` `#ComputerVision` `#ModelQuantization` `#ARMArchitecture` `#CUDA` `#RealtimeInference` `#AutonomousSystems` `#SLAM` `#PyTorch` `#ONNX` `#TensorRT` `#EmbeddedML` `#IoT` `#RaspberryPi` `#Firmware` `#SpeechSynthesis` `#TTS` `#VLA` `#OmniBot` `#DigitalMind`
 
 ---
 
