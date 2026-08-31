@@ -1,25 +1,25 @@
 <!-- Typing SVG Header -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Vaidhiya;Edge+AI+%26+Robotics+Engineer;Performance+Optimization+Specialist;Embedded+Systems+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Vaidhiya;Autonomy+Integration+Engineer;Robotics+Software+Engineer;Robot+Learning+%26+Manipulation" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">🚀 Software Engineer | Edge AI Inference | Robotics | Embedded Hardware 🤖</h3>
+<h3 align="center">🚀 Autonomy Integration | Robot Manipulation | Robot Learning 🤖</h3>
 
 <p align="center">
-  <em>Specializing in high-performance embedded systems, real-time inference optimization, and robotics platforms  </em>
+  <em>Specializing in software engineering for robotics tooling, autonomy integration, and deployment platforms</em>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Software Engineer with deep expertise in **Edge AI Inference**, **Robotics**, and **Embedded Hardware**. Passionate about optimizing ML models for resource-constrained devices, building real-time autonomous systems, and low-level firmware engineering. Currently focused on building affordable mobile manipulation robots and optimizing GenAI models for edge devices.
+Robotics Software Engineer specializing in **Autonomy Integration**, **Robot Manipulation**, and **Robot Learning**. Passionate about building robust software tooling that enables physical AI and streamlines the deployment of autonomous systems in the real world. 
 
-- 🔭 Working on: **[OmniBot](https://github.com/varunvaidhiya/OmniBotPro)** (a $500 mobile manipulation robot with a unified SmolVLA policy), **[Digital Mind](https://varunvaidhiya.com)** (an AI assistant on my personal site), and real-time inference optimization for speech (TTS) and vision models.
-- 🌱 Exploring: Advanced model quantization (8-bit/4-bit), structured pruning, heterogeneous computing (ARM/CUDA), and ROS 2 navigation (SLAM, Nav2).
-- 🎯 Interests: Performance engineering, embedded ML, autonomous systems, and neural architecture design for constrained hardware.
+- 🔭 Working on: **OhhO Robotics** (Founder) — building open robotics data and deployment tooling to accelerate physical AI. Developing software infrastructure for affordable mobile manipulation platforms.
+- 🌱 Exploring: Visual-Language-Action (VLA) models, ROS 2 middleware, SLAM, and real-time perception for dynamic manipulation.
+- 🎯 Interests: Autonomy integration, building scalable robot deployment tools, robot learning pipelines, and bridging the gap between AI models and physical execution.
 - 📧 Email: varun.vaidhiya@gmail.com
 
 ---
@@ -108,28 +108,27 @@ Software Engineer with deep expertise in **Edge AI Inference**, **Robotics**, an
 ```python
 class VarunVaidhiya:
     def __init__(self):
-        self.role = "Software Engineer & Robotics Researcher"
+        self.role = "Autonomy Integration Engineer"
         self.specializations = [
-            "Edge AI Inference Optimization & Quantization",
-            "Robotics Middleware (ROS 2) & Control Systems",
-            "Embedded Hardware & Firmware Engineering",
-            "Speech Synthesis (TTS) & Acoustic Modeling",
-            "Performance Engineering & Profiling (C++/CUDA/ARM)"
+            "Robotics Software Engineering & Tooling",
+            "Autonomy Integration & Deployment",
+            "Robot Manipulation & Kinematics",
+            "Robot Learning (VLA, Imitation Learning)",
+            "ROS 2 Middleware & Control Systems"
         ]
         self.current_projects = [
-            "OmniBot: $500 mobile manipulation robot (SmolVLA, ROS 2)",
-            "Digital Mind: AI assistant grounded in personal knowledge base",
-            "Real-time object detection & sensor fusion (EKF) on ARM platforms",
-            "Model compression for GenAI TTS on edge devices"
+            "OhhO Robotics: Open robotics data and deployment tooling",
+            "Mobile manipulation platforms & real-time perception",
+            "Data pipelines & inference deployment for physical AI"
         ]
         self.looking_for = {
-            "opportunities": "AI/Robotics Research and Edge AI Roles",
+            "opportunities": "Autonomy Integration, Robotics Software Engineer Roles",
             
-            "collaborations": "Open-source robotics, embedded ML & VLA models"
+            "collaborations": "Robot learning, scalable deployment tooling"
         }
     
     def say_hi(self):
-        print("Let's build intelligent embedded systems together!")
+        print("Let's build robust software for physical AI!")
 ```
 
 ---
@@ -150,7 +149,7 @@ class VarunVaidhiya:
 
 ## 🏷️ Interests & Keywords
 
-`#EdgeAI` `#Robotics` `#EmbeddedSystems` `#MachineLearning` `#PerformanceOptimization` `#ROS2` `#ComputerVision` `#ModelQuantization` `#ARMArchitecture` `#CUDA` `#RealtimeInference` `#AutonomousSystems` `#SLAM` `#PyTorch` `#ONNX` `#TensorRT` `#EmbeddedML` `#IoT` `#RaspberryPi` `#Firmware` `#SpeechSynthesis` `#TTS` `#VLA` `#OmniBot` `#DigitalMind`
+`#AutonomyIntegration` `#Robotics` `#RobotManipulation` `#RobotLearning` `#ROS2` `#SoftwareEngineering` `#OhhORobotics` `#PhysicalAI` `#ComputerVision` `#SLAM` `#C++` `#Python` `#DeploymentTooling`
 
 ---
 
