@@ -1,11 +1,11 @@
 <!-- Typing SVG Header -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Vaidhiya;Autonomy+Integration+Engineer;Robotics+Software+Engineer;Robot+Learning+%26+Manipulation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Vaidhiya;Autonomy+Integration+Engineer;AI+%26+Robotics+Software+Engineer;Robot+Learning+%26+Manipulation;VLA+Training+%26+Reinforcement+Learning" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">🚀 Autonomy Integration | Robot Manipulation | Robot Learning 🤖</h3>
+<h3 align="center">🚀 Autonomy Integration | Robot Manipulation | AI Model Training 🧠</h3>
 
 <p align="center">
   <em>Specializing in software engineering for robotics tooling, autonomy integration, and deployment platforms</em>
@@ -15,47 +15,45 @@
 
 ## 👨‍💻 About Me
 
-Autonomy Software Engineer specializing in **Autonomy Integration**, **Robot Manipulation**, and **Robot Learning**. Passionate about building robust software tooling that enables physical AI and streamlines the deployment of autonomous systems in the real world. 
+Autonomy Software Engineer specializing in **Autonomy Integration**, **Robot Learning**, and **Embodied AI**. Passionate about building robust software tooling that enables physical AI and streamlines the deployment of autonomous systems in the real world. 
 
-- 🔭 Working on: **OhhO Robotics** (Founder) — building open robotics data and deployment tooling to accelerate physical AI. Developing software infrastructure for affordable mobile manipulation platforms.
-- 🌱 Exploring: Visual-Language-Action (VLA) models, ROS 2 middleware, SLAM, and real-time perception for dynamic manipulation.
-- 🎯 Interests: Autonomy integration, building scalable robot deployment tools, robot learning pipelines, and bridging the gap between AI models and physical execution.
-- 📧 Email: varun.vaidhiya@gmail.com
+- 🔭 Working on: **OhhO Robotics** (Founder) — building the open-source standard for Embodied AI & Mobile Manipulation.
+- 🌱 Deep Expertise: 
+  - **Vision-Language-Action (VLA)** models: Pre-training, post-training, and inference deployment.
+  - **Robot Learning & Teleoperation**: Imitation learning, kinesthetic teaching, and VR-based spatial data collection.
+  - **Reinforcement Learning (RL)**: Sim-to-real transfer, Isaac Lab, and on-device policy execution.
+  - **Data Engineering for Training**: Designing high-throughput, episodic data pipelines (LeRobot format) for scalable model training.
+- ⚙️ Core Stack: ROS 2 middleware, SLAM, PyTorch, C++/Python hardware drivers, and full-stack deployment tooling.
+- 💡 Interests: Autonomy integration, building scalable robot deployment tools, and bridging the gap between foundation models and physical hardware execution.
+- 📫 Email: varun.vaidhiya@gmail.com
 
 ---
 
 ## 🛠️ Technology Stack
 
+### AI Model Training & Robot Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-282C34?style=for-the-badge&logo=openai&logoColor=white)
+![Imitation Learning](https://img.shields.io/badge/Imitation_Learning-FF6F00?style=for-the-badge)
+
+### Robotics & Autonomy
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge)
+![NVIDIA Isaac](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### AI/ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Robotics & Embedded Systems
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### Performance & Optimization
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-6B9BD2?style=for-the-badge)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Data Engineering & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-00599C?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ---
 
@@ -82,18 +80,7 @@ Autonomy Software Engineer specializing in **Autonomy Integration**, **Robot Man
 
 ---
 
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <em>📍 To enable weekly stats: Set up <a href="https://github.com/athul/waka-readme">waka-readme-stats</a> with your WakaTime API key</em>
-</p>
-
----
-
-## 🔥 Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -108,22 +95,22 @@ Autonomy Software Engineer specializing in **Autonomy Integration**, **Robot Man
 ```python
 class VarunVaidhiya:
     def __init__(self):
-        self.role = "Autonomy Integration Engineer"
-        self.specializations = [
-            "Robotics Software Engineering & Tooling",
-            "Autonomy Integration & Deployment",
-            "Robot Manipulation & Kinematics",
-            "Robot Learning (VLA, Imitation Learning)",
-            "ROS 2 Middleware & Control Systems"
+        self.role = "Autonomy Integration & AI Software Engineer"
+        self.expertise = [
+            "VLA Pre-training & Post-training",
+            "Imitation Learning & Teleoperation",
+            "Reinforcement Learning (Sim-to-Real)",
+            "Data Engineering for AI Training Pipelines",
+            "Robotics Software Engineering & ROS 2",
+            "Robot Manipulation & Kinematics"
         ]
         self.current_projects = [
-            "OhhO Robotics: Open robotics data and deployment tooling",
-            "Mobile manipulation platforms & real-time perception",
-            "Data pipelines & inference deployment for physical AI"
+            "OhhO Robotics: Open-source Embodied AI ecosystem",
+            "Scalable VR/Mobile teleoperation pipelines",
+            "End-to-end model training infrastructure"
         ]
         self.looking_for = {
-            "opportunities": "Autonomy Integration, Robotics Software Engineer Roles",
-            
+            "opportunities": "Autonomy Integration, AI/Robotics Software Engineer Roles",
             "collaborations": "Robot learning, scalable deployment tooling"
         }
     
@@ -133,10 +120,9 @@ class VarunVaidhiya:
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
- 
   <a href="mailto:varun.vaidhiya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -149,18 +135,18 @@ class VarunVaidhiya:
 
 ## 🏷️ Interests & Keywords
 
-`#AutonomyIntegration` `#Robotics` `#RobotManipulation` `#RobotLearning` `#ROS2` `#SoftwareEngineering` `#OhhORobotics` `#PhysicalAI` `#ComputerVision` `#SLAM` `#C++` `#Python` `#DeploymentTooling`
+`#VLA` `#ModelTraining` `#ReinforcementLearning` `#ImitationLearning` `#Teleoperation` `#DataEngineering` `#AutonomyIntegration` `#Robotics` `#RobotManipulation` `#RobotLearning` `#ROS2` `#OhhORobotics` `#PhysicalAI` 
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=varunvaidhiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/>
-  <em>💡 Open to collaborations, research opportunities, and interesting projects in AI & Robotics!</em>
+  <em>🌟 Open to collaborations, research opportunities, and interesting projects in AI & Robotics!</em>
 </p>
 
 ---
 
 <p align="center">
-  <sub>⭐️ From <a href="https://github.com/varunvaidhiya">varunvaidhiya</a> | Last updated: 2025</sub>
+  <sub>🛠️ From <a href="https://github.com/varunvaidhiya">varunvaidhiya</a> | Last updated: 2026</sub>
 </p>
