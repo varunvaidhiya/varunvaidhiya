@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Robotics Software Engineer specializing in **Autonomy Integration**, **Robot Manipulation**, and **Robot Learning**. Passionate about building robust software tooling that enables physical AI and streamlines the deployment of autonomous systems in the real world. 
+Autonomy Software Engineer specializing in **Autonomy Integration**, **Robot Manipulation**, and **Robot Learning**. Passionate about building robust software tooling that enables physical AI and streamlines the deployment of autonomous systems in the real world. 
 
 - 🔭 Working on: **OhhO Robotics** (Founder) — building open robotics data and deployment tooling to accelerate physical AI. Developing software infrastructure for affordable mobile manipulation platforms.
 - 🌱 Exploring: Visual-Language-Action (VLA) models, ROS 2 middleware, SLAM, and real-time perception for dynamic manipulation.
