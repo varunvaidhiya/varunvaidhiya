@@ -1,21 +1,33 @@
 <!-- Typing SVG Header -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Vaidhiya;Autonomy+Integration+Engineer;AI+%26+Robotics+Software+Engineer;Robot+Learning+%26+Manipulation;VLA+Training+%26+Reinforcement+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Vaidhiya;Robotics+Software+Engineer;ROS+2+%C2%B7+Embedded+Linux;Imitation+learning+(LeRobot%2FVLA)" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">🚀 Autonomy Integration | Robot Manipulation | AI Model Training 🧠</h3>
+<h3 align="center">Robotics Software Engineer · ROS 2 · Embedded Linux · Imitation learning (LeRobot/VLA)</h3>
 
 <p align="center">
-  <em>Specializing in software engineering for robotics tooling, autonomy integration, and deployment platforms</em>
+  Building <a href="https://github.com/ohho-robotics/OmniBot"><b>OmniBot</b></a>, an open-source mobile manipulator, at <a href="https://ohho-robotics.com">Ohho Robotics</a>
+</p>
+
+<p align="center">
+  📍 UK · open to robotics / embedded roles
+</p>
+
+<p align="center">
+  <a href="https://varunvaidhiya.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/varunvaidhiya">LinkedIn</a> ·
+  <a href="https://x.com/VarunVaidhiya">X</a> ·
+  <a href="https://varunvaidhiya.substack.com">Substack</a> ·
+  <a href="https://www.youtube.com/@varun.vaidhiya">YouTube</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Autonomy Software Engineer specializing in **Autonomy Integration**, **Robot Learning**, and **Embodied AI**. Passionate about building robust software tooling that enables physical AI and streamlines the deployment of autonomous systems in the real world. 
+Robotics Software Engineer specializing in **Autonomy Integration**, **Robot Learning**, and **Embodied AI**. Passionate about building robust software tooling that enables physical AI and streamlines the deployment of autonomous systems in the real world. 
 
 - 🔭 Working on: **OhhO Robotics** (Founder) — building the open-source standard for Embodied AI & Mobile Manipulation.
 - 🌱 Deep Expertise: 
@@ -26,6 +38,17 @@ Autonomy Software Engineer specializing in **Autonomy Integration**, **Robot Lea
 - ⚙️ Core Stack: ROS 2 middleware, SLAM, PyTorch, C++/Python hardware drivers, and full-stack deployment tooling.
 - 💡 Interests: Autonomy integration, building scalable robot deployment tools, and bridging the gap between foundation models and physical hardware execution.
 - 📫 Email: varun.vaidhiya@gmail.com
+
+---
+
+## 🔨 Recent Work
+
+- [OmniBot #10](https://github.com/ohho-robotics/OmniBot/pull/10): arm emergency stop now drops servo torque; the driver holds position on stale commands and clamps joint limits and per-cycle steps.
+- [OmniBot #13](https://github.com/ohho-robotics/OmniBot/pull/13): the LeRobot policy node skips missing or black camera frames, drops stale inference, and clamps arm deltas.
+- [OmniBot #12](https://github.com/ohho-robotics/OmniBot/pull/12): one shared wrist + bird's-eye camera schema across recording, validation, bag conversion and the policy.
+- [OmniBot #14](https://github.com/ohho-robotics/OmniBot/pull/14): episode quality filter CLI for LeRobot datasets that rejects frozen video, camera timestamp skew, joint jumps and too-short episodes.
+- [OhhO-VR #5](https://github.com/ohho-robotics/OhhO-VR/pull/5): GameCI workflow that runs the Unity edit-mode test suite in CI.
+- [ohho-os 1.1.2](https://pypi.org/project/ohho-os/1.1.2/): released to PyPI through a tag-triggered trusted-publishing workflow with install smoke tests on Ubuntu and macOS.
 
 ---
 
@@ -57,16 +80,6 @@ Autonomy Software Engineer specializing in **Autonomy Integration**, **Robot Lea
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=varunvaidhiya&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -80,22 +93,12 @@ Autonomy Software Engineer specializing in **Autonomy Integration**, **Robot Lea
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunvaidhiya&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-  </a>
-</p>
-
----
-
 ## 🎯 Key Focus Areas
 
 ```python
 class VarunVaidhiya:
     def __init__(self):
-        self.role = "Autonomy Integration & AI Software Engineer"
+        self.role = "Robotics Software Engineer"
         self.expertise = [
             "VLA Pre-training & Post-training",
             "Imitation Learning & Teleoperation",
@@ -110,7 +113,7 @@ class VarunVaidhiya:
             "End-to-end model training infrastructure"
         ]
         self.looking_for = {
-            "opportunities": "Autonomy Integration, AI/Robotics Software Engineer Roles",
+            "opportunities": "Robotics / embedded software roles (UK)",
             "collaborations": "Robot learning, scalable deployment tooling"
         }
     
@@ -128,6 +131,21 @@ class VarunVaidhiya:
   </a>
   <a href="https://github.com/varunvaidhiya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://varunvaidhiya.com">
+    <img src="https://img.shields.io/badge/Website-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/varunvaidhiya">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/VarunVaidhiya">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://varunvaidhiya.substack.com">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
+  </a>
+  <a href="https://www.youtube.com/@varun.vaidhiya">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
