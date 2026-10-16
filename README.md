@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  📍 UK · open to robot learning, AI engineering and ML/AI performance roles
+  Open to robot learning, AI engineering and ML/AI performance roles
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ class VarunVaidhiya:
             "Accelerated on-robot policy inference",
         ]
         self.looking_for = {
-            "opportunities": "Robot learning, AI engineering & ML/AI performance roles (UK)",
+            "opportunities": "Robot learning, AI engineering & ML/AI performance roles",
             "collaborations": "Robot learning infrastructure, efficient edge inference",
         }
 
