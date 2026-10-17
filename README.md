@@ -29,7 +29,7 @@
 
 I build the **software platform that makes robot learning work** (teleoperation data collection, episodic data pipelines, training and policy-serving infrastructure) and I **make AI models run fast on real compute**: GPU and edge-GPU inference, quantisation and model performance optimisation.
 
-- 🔭 Working on: **OhhO Robotics** (Founder): the open-source software stack for robot learning on mobile manipulators.
+- 🔭 Working on: **OhhO Robotics** (Founder): the software stack for robot learning on mobile manipulators. Ohho OS is free. The SDK, adapters and tools behind it are open source.
 - 🤖 **Robot learning platform**
   - **Teleoperation data collection**: VR / mobile teleop pipelines for recording demonstrations.
   - **Data pipelines**: LeRobot-format episodic datasets, shared camera schemas, bag conversion and episode quality filtering.
@@ -40,7 +40,7 @@ I build the **software platform that makes robot learning work** (teleoperation 
   - **CUDA & ARM**: [libfreenect2 fork](https://github.com/varunvaidhiya/libfreenect2) with CUDA 13.0 fixes and Raspberry Pi 5 / ARM64 support; CUDA programming practice; performance trace analysis (Perfetto).
 - ⚙️ Core Stack: PyTorch, LeRobot, ROS 2, TensorRT, ONNX, CUDA, Docker, Python, C++.
 - 💡 Interests: efficient inference for robot policies and foundation models (including VLAs) on edge GPUs.
-- 📫 Email: varun.vaidhiya@gmail.com
+- 📫 Email: varun@ohho-robotics.com
 
 ---
 
@@ -117,7 +117,7 @@ class VarunVaidhiya:
             "Model optimisation: quantisation, pruning, benchmarking",
         ]
         self.current_projects = [
-            "OhhO Robotics: open-source robot learning software stack",
+            "OhhO Robotics: robot learning software stack",
             "VR / mobile teleoperation data pipelines",
             "Accelerated on-robot policy inference",
         ]
@@ -135,7 +135,7 @@ class VarunVaidhiya:
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:varun.vaidhiya@gmail.com">
+  <a href="mailto:varun@ohho-robotics.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/varunvaidhiya">
