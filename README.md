@@ -29,7 +29,7 @@
 
 I build the **software platform that makes robot learning work** (teleoperation data collection, episodic data pipelines, training and policy-serving infrastructure) and I **make AI models run fast on real compute**: GPU and edge-GPU inference, quantisation and model performance optimisation.
 
-- 🔭 Working on: **OhhO Robotics** (Founder): the software stack for robot learning on mobile manipulators. Ohho OS is free. The SDK, adapters and tools behind it are open source.
+- 🔭 Working on: **OhhO Robotics** (Founder): the open-source software stack for robot learning on mobile manipulators. Ohho OS is open source (Apache-2.0).
 - 🤖 **Robot learning platform**
   - **Teleoperation data collection**: VR / mobile teleop pipelines for recording demonstrations.
   - **Data pipelines**: LeRobot-format episodic datasets, shared camera schemas, bag conversion and episode quality filtering.
@@ -117,7 +117,7 @@ class VarunVaidhiya:
             "Model optimisation: quantisation, pruning, benchmarking",
         ]
         self.current_projects = [
-            "OhhO Robotics: robot learning software stack",
+            "OhhO Robotics: open-source robot learning software stack",
             "VR / mobile teleoperation data pipelines",
             "Accelerated on-robot policy inference",
         ]
