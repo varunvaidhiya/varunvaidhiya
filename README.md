@@ -101,6 +101,17 @@ I build the **software platform that makes robot learning work** (teleoperation 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunvaidhiya&theme=algolia" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+<!-- commits.sh:profile:start -->
+<a href="https://commits.sh/varunvaidhiya">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://commits.sh/api/badge?handle=varunvaidhiya&amp;style=card&amp;theme=light&amp;v=52w1" />
+    <img src="https://commits.sh/api/badge?handle=varunvaidhiya&amp;style=card&amp;theme=dark&amp;v=52w1" alt="varunvaidhiya's public GitHub activity on commits.sh" width="480" />
+  </picture>
+</a>
+<!-- commits.sh:profile:end -->
+</p>
+
 ---
 
 ## 🎯 Key Focus Areas
